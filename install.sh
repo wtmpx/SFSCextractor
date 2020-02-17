@@ -18,7 +18,7 @@ if [ ! -f ~/.SFSCextractorrc ] ; then
 DOWNLOAD_FOLDER=~/Downloads
 
 # the folder with your cases
-CASES_FOLDER=/$USER/SFSC 
+CASES_FOLDER=/home/$USER/SFSC 
 
 # loglevel 1=errors 2=verbose
 LOGLEVEL=1
